@@ -59,7 +59,7 @@ But, it also supports a unique feature for changing the placeholder text, withou
 
 1. The application should run without errors.
 2. The application should have an identity of its own, designed by you. You should give in a one-to-three sentences description of your design choices on the application's identity.
-3. You should curate a number of fonts between 50-100. You should give in a one-to-three sentences description of your curation's merits.
+3. You should pick a number of fonts between 50-100 from fonts.google.com as per your artistic tastes. You should give in a one-to-three sentences description of your collection's merits.
 4. You should include the fonts as CSS @font-face at-rules locally.
 5. The user should be able to browse among the fonts. Font browser should list the fonts in their own type faces (e.g. "Courier" item in the list should appear in the Courier type face).
 6. Selecting a font in the browser should bring the font up into the preview area with a much bigger font size which is up to you.
