@@ -65,7 +65,7 @@ But, it also supports a unique feature for changing the placeholder text, withou
 6. Selecting a font in the browser should bring the font up into the preview area with a much bigger font size which is up to you.
 7. Preview area should present the selected font with a placeholder text which you can specify freely. You should give in a one-to-three sentences justification of your selection of the default placeholder text.
 8. Preview area should enable an interaction for changing the placeholder text by typing on the keyboard.
-9. Preview area should support the Glyph Rounding feature which is explained as follows: The letter under the cursor is incremented/decremented by one letter at a time on mouse wheel movement. Opposing directions of movement should result in opposite interactions.
+9. Preview area should support the Glyph Rounding feature which is explained as follows: The letter under the mouse cursor is incremented/decremented by one letter at a time on mouse wheel movement. Opposing directions of movement should result in opposite interactions.
    Incrementing by one letter means replacing the current letter with the one just after it in the alphabet. Decrementing by one letter means replacing the current letter with the one just before it in the alphabet. 
    The alphabet being: "a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z, A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z" in cyclic order. So, before "a" is "Z" and after "Z" is "a".
 10. There should be a way of browsing in the previous font preview history. Which has the same functionalities as the font browser except changing the preview history.
